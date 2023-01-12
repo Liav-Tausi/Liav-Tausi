@@ -14,7 +14,7 @@
 	<a href="https://github.com/liav-tausi"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="32" alt="GitHub"> </a>
 		&nbsp
 	<a href="https://www.linkedin.com/in/liav-tausi-9bb253252"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="32" alt="LinkedIn"></a>
-		   <h2 align="center"> liav tausi Full Stack Developer  </h2>
+		   <h2 align="center"> Liav Tausi Full Stack Developer  </h2>
 		   
 </p>
 <h3 align="left">👋 About me:</h3>
