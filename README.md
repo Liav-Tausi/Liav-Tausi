@@ -30,7 +30,19 @@
     <img src=https://github-readme-streak-stats.herokuapp.com/?user=liav-tausi&" alt="liav-tausi"" />
 </picture>
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?liav-tausi=anuraghazra&show_icons=true&theme=radical)
+<div align="center">
+	<picture >
+	<source 
+	  srcset="https://github-readme-stats.vercel.app/api?username=Liav-Tausi&show_icons=true&theme=dark"
+	  media="(prefers-color-scheme: light)"
+	/>
+	<source
+	  srcset="https://github-readme-stats.vercel.app/api?username=Liav-Tausi&show_icons=true"
+	  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+	/>
+	<img src="https://github-readme-stats.vercel.app/api?username=Liav-Tausi&show_icons=true" />
+	</picture>
+</div>
 	
 <p align="center"> 
  &nbsp
