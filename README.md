@@ -20,6 +20,8 @@
 		<div align="left">i am a full stack developer 💻</div>
 <div align="left">open sorce creator/contributor 🌐<div>
 <div align="left">and a coding thirsty monster 👻<div>
+
+<div align="left"> Currently working on:  https://github.com/Liav-Tausi/vt_automator </div>
   
 <h4 align="left"> Languages and Tools 🛠</h4>
 		&nbsp
@@ -28,7 +30,8 @@
 		</p>
 		
 <p align="center"> 
-  Visitor count<br>
+ &nbsp
+  visitor count<br>
   <img src="https://profile-counter.glitch.me/liav_tausi/count.svg" />
 </p>
 
