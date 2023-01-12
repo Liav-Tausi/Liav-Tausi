@@ -30,6 +30,7 @@
     <img src=https://github-readme-streak-stats.herokuapp.com/?user=liav-tausi&" alt="liav-tausi"" />
 </picture>
 </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?liav-tausi=anuraghazra&show_icons=true&theme=radical)
 	
 <p align="center"> 
  &nbsp
