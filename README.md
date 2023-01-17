@@ -11,7 +11,7 @@
 
 <div align="left">  
    <h2 align="center">
-     Liav Tausi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+   Hey I'm Liav <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
    </h2>
    
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%1g&size=26&lines=A+Full+Stack+Developer;)](https://git.io/typing-svg)
