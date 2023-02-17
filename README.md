@@ -34,7 +34,7 @@
  
 <div>&nbsp</div>
 	   
-- 🔭 I’m currently working on: https://github.com/Liav-Tausi/vt_automator
+- 🔭 I’m currently working on: https://github.com/Liav-Tausi/google_classroom_cli 
 - 👨‍💻 All of my projects are available at: [https://github.com/Liav-Tausi?tab=repositories](https://github.com/Liav-Tausi?tab=repositories)
 
 
