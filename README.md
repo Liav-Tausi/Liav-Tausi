@@ -58,9 +58,15 @@
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="django" width="40" height="40"/>
+  </a> 
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="django" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/> 
+   <a href="https://nodejs.org/en/" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="git" width="40" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
@@ -74,6 +80,9 @@
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/>
   </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/> 
+  </a> 
   <a href="https://postman.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
