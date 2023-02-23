@@ -26,7 +26,7 @@
     i am a full stack developer 💻
  </div>
  <div align="left">
-    open sorce creator/contributor 🌐
+    open source creator/contributor 🌐
  <div>
  <div align="left">
     and a coding thirsty monster 👻
