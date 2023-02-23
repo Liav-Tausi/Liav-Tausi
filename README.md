@@ -51,9 +51,6 @@
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="linux" width="40" height="40"/>
   </a> 
-  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="bash" width="40" height="40"/> 
-  </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank">
