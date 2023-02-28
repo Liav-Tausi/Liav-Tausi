@@ -68,6 +68,9 @@
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="reactjs" width="40" height="40"/> 
   </a> 
+  <a href="https://mui.com/" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" alt="MUI" width="40" height="40"/> 
+  </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
   </a>
