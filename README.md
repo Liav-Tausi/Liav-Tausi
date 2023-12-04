@@ -98,29 +98,6 @@
 <div>&nbsp</div>
 
 
-
-<div align="left" >
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=liav-tausi&" alt="liav-tausi"" />
-    <img src=https://github-readme-streak-stats.herokuapp.com/?user=liav-tausi&" alt="liav-tausi"" />
-</picture>
-
-
-<p align="left">
-    <picture>
-       <source 
-	  srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Liav-Tausi&show_icons=true&theme=dark"
-	  media="(prefers-color-scheme: light)"
-      <source/>
-      <source
-	  srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Liav-Tausi&show_icons=true"
-	  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-      <source/>
-	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Liav-Tausi&show_icons=true" />
-   </picture>
-</p>
-	
-	
 <p align="center"> 
   visitor count<br>
   <img src="https://profile-counter.glitch.me/liav_tausi/count.svg" />
